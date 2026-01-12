@@ -1,0 +1,445 @@
+[8.09.2025 23:17:42] 047 Yapay Zeka Kampı: ‎Mesajlar ve aramalar uçtan uca şifrelidir. Yalnızca bu sohbetteki kişiler bu içerikleri okuyabilir, dinleyebilir veya paylaşabilir.
+[8.09.2025 23:17:42] ~ Zafer ACAR: ‎~ Zafer ACAR bu grubu oluşturdu
+[8.10.2025 16:28:20] 047 Yapay Zeka Kampı: ‎~ Zafer ACAR sizi ekledi
+[9.10.2025 07:50:27] ~ Zafer ACAR: 1. Günün ödevi için aşağıdaki linkten yardım alabilirsiniz:
+    https://github.com/john-science/python_for_scientists/blob/main/classes/13_pandas/problem_set_1_solutions.md
+    2. Günün ödevi için aşağıdaki linkten yardım alabilirsiniz:
+https://github.com/john-science/python_for_scientists/blob/main/classes/12_matplotlib/problem_set_1_solutions.md
+[10.10.2025 16:10:04] ~ Kubilay Kılınç: ‎~ Kubilay Kılınç bir grup bağlantısıyla katıldı.
+[10.10.2025 18:04:31] ~ Zafer ACAR: Değerli Arkadaşlar,
+
+Dünyanın en iyi yapay zeka eğitim kampına hoş geldiniz! Heyecan dolu bir günün daha başlangıcına çok az kaldı! 11 Ekim 2025 Cumartesi sabahı, gününüzü harika bir şekilde başlatmak için sadece birkaç basit adım izleyeceksiniz: erken uyanmak, lezzetli bir kahvaltı yapmak ve saat 06:55'te aşağıdaki Zoom linkine tıklayıp yapay zeka maceranıza atılmak!
+
+Bu seferki konumuz "Regresyon" olacak, fakat öncelikle geçen hafta öğrendiklerimizi gözden geçirerek regresyon modelleri oluşturacağız. Eğer geçen haftaki konularla ilgili zorluk yaşadıysanız, şimdi tekrar etmek için mükemmel bir zaman! Bu hafta, hem bilgilerinizi pekiştirmek hem de heyecan verici yeni bilgiler öğrenmek için harika bir fırsat olacak. Zoom toplantımızda sizleri sabırsızlıkla bekliyoruz! Unutmayın, bu yolculukta birlikteyiz ve her adımda birbirimize destek olacağız!
+
+Zoom toplantısı:
+https://michigantech.zoom.us/j/88464712645
+
+📱✨Eğer WhatsApp grubumuza henüz katılmadıysanız, aşağıdaki linke tıklayıp hemen üye olabilirsiniz!
+
+https://chat.whatsapp.com/I7LWfhuRBJxIdVUhlkudC4
+[11.10.2025 06:58:32] ~ Zafer ACAR: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[11.10.2025 12:50:25] Tuğba Hanım AI: Ara sona erdi. Ders devam ediyor.
+[11.10.2025 15:21:41] ~ Zafer ACAR: Yazdigimiz kodlari sisteme yuklemeyi unutmayiniz Day3 notebook kismina yukleyeceksiniz
+[11.10.2025 15:26:03] ~ Özkan Günalp: https://us05web.zoom.us/j/89309066471?pwd=55jHbbF3V2gFS5ECxblJuZwXjmqQaF.1
+[11.10.2025 15:26:09] ~ Özkan Günalp: Sorusu olan varsa gelebilir
+‎[11.10.2025 20:53:02] ~ Mert Ali Özer: ‎görüntü dahil edilmedi
+[11.10.2025 20:53:02] ~ Mert Ali Özer: ödevde r2 skoru max bu kadar yüseltebildim normalmidir, zafer hoca en son bir kod vermişti veri tipleriyle alakalı galiba bende o kod eksik sanırım yardımcı olabilir misiniz
+[11.10.2025 21:01:04] ~ Iclal: Evet normal, 0.78 iyi bir skor 
+df.dtypes ile veri tiplerine tekrar bakin, sayısal olması gereken sütunlar object görünüyorsa astype(float) veya LabelEncoder/get_dummies() ekleyebilirsiniz. Büyük ihtimalle ondan kaynaklı
+[11.10.2025 21:03:46] ~ Mert Ali Özer: tamamdır tekrar bakıyorum
+[11.10.2025 21:03:55] ~ Mert Ali Özer: teşekkürler
+[11.10.2025 21:05:55] ~ Zafer ACAR: Bugünkü dersin videosu yayınlandı: https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODE5/details
+[11.10.2025 21:10:20] ~ BT: video daha yuklenmedi hocam, hata veriyor
+[11.10.2025 21:27:23] ~ BT: tesekkurler calisiyor suan😊
+[12.10.2025 00:20:56] ~ Ayşegül: ‎~ Ayşegül bir grup bağlantısıyla katıldı.
+[12.10.2025 06:59:33] ~ Zafer ACAR: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[12.10.2025 14:50:37] ~ Zafer ACAR: Yazilan kodlari sisteme yuklemeyi unutmayiniz
+[12.10.2025 15:24:29] ~ Hande Çarkcı: https://us05web.zoom.us/j/89526379971?pwd=lFQFS8RLwZYx3WuABXGOTFtzSrRiAq.1    hatası olan varsa,  sorusu olan gelebilir
+[12.10.2025 20:08:06] ~ Zafer ACAR: Bugünkü ders videosu yayınlandı https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODIz/details
+[13.10.2025 05:38:16] ~ Zafer ACAR: Derse kayıt olup 2 haftadır asistanlarımızın mesajlarına cevap vermeyen ve derslere hiç katılmayan 11 kişi derslerden uzaklşatırılmış ve ders materyallerine erişimleri engellenmiştir. Kalan sağlarla yapay zeka maceramıza devam ediyoruz.
+[13.10.2025 11:54:45] ~ Kubilay Kılınç: Merhaba Zafer bey, 
+Ben Tanju bey vasıtasıyla derslerinize kayıt olabildim. Python programlama dersleri de verdiğim zamanlar oldu. 
+Dersleriniz benim içinde çok değerli. Benim için aniden gelişen bir durum oldu ve zaman tablosuna uymam mümkün olamadı.
+Dersleriniz çok değerli. Sadece katılamama sebebimi belirtmek istedim.
+
+Başarılar diliyorum.
+sevgiler ve saygılar.
+Kubilay Kılınç
+[13.10.2025 22:00:13] ~ Özkan Günalp: Day 3 Regression Quiz: 
+
+https://g.co/gemini/share/7126321cecad
+
+Day 4 Classification Quiz: 
+
+https://g.co/gemini/share/e54538115186
+
+Day 4 Clustering Quiz:
+
+https://g.co/gemini/share/c63be10d63a2
+[15.10.2025 02:23:32] ~ Özkan Günalp: https://python-graph-gallery.com/
+[15.10.2025 11:25:18] ~ Ömer Can: https://www.kaggle.com/competitions/titanic
+
+titanic projesi için buradan yardım alabilirsiniz. Aynı zamanda tahmin sonucunuzu da bu siteye yüklerek doğruluk oranınızı öğrenebilirsiniz
+[15.10.2025 11:25:18] ~ Ömer Can: Titanic ödevi ipucu:
+iki dosyayı python ortamında read_csv ile okuyun. daha sonra ikisini concat fonksiyonu ile birleştirin. birleştirmemizin sebebi iki dosyaya da ayrı ayrı veri manipülasyonu yapmak yerine tek bir dosyada birleştirerek kolaylık sağlamak. veri manipülasonlarını (boş veri doldurma(Survived sütunu hariç) feature engineering , get dummies) uygulandıktan sonra veriyi tekrar train ve test olarak iki data frame e ayırın. bunu da birleşmiş dosyanın ilk 891 ini train değişkenine 891 den sonrasını test değişkenine atarak yapabilirsiniz. veya Survived sütunu dolu olanları train e boş olanları test e atabilirsiniz. train i x ve y olarak ayırıp fit e x ve y yi vereceksiniz. test datasını predict edeceksiniz. sonucu csv olarak kayıt ederek kaggle da titanic sayfasında submit edip doğruluk skorunuzu göreceksiniz
+not: Bu bir classification projesidir
+[15.10.2025 11:25:18] ~ Ömer Can: 1. Projenin amacını ve içeriğini anla
+👉 Proje neyi hedefliyor? Regresyon, sınıflandırma veya kümeleme problemi mi? Bu belirlenmeli.
+
+2. Veriyi oku ve incele (EDA)
+👉 pandas ile veriyi içe aktar, df.info(), df.describe() ve df.isnull().sum() gibi komutlarla genel durumu gözlemle.
+
+3. Modelde kullanmak için uygun sütunları belirle
+👉 Hedef değişken (target) dışındaki anlamlı ve modelle ilişkili sütunları seç.
+
+4. Kategorik (object) sütunlardan sayısala çevrilebilecek olanları dönüştür
+👉 Örneğin: yaş gibi sayılar string olarak girildiyse bunları numeric'e çevirmelisin.
+
+5. Veri manipülasyonları yap (eksik değerleri doldur, hatalı verileri düzelt)
+👉 fillna(), replace(), str.strip() gibi işlemlerle veri temizliği sağla.
+
+6. Feature Engineering (özellik mühendisliği) uygula
+👉 Yeni sütunlar üret.
+
+7. Kategorik değişkenlere get_dummies uygula (One-hot encoding)
+👉 Modelin anlayabilmesi için pd.get_dummies() ile kategorik verileri sayısallaştır.
+
+8. Veriyi X ve y olarak ayır (regresyon/sınıflandırma) veya sadece X (kümeleme)
+👉 X: giriş verileri, y: hedef değişken. Kümeleme yapacaksan sadece X yeterli.
+
+9. Modeli eğit ve tahmin et (fit-predict)
+👉 Seçilen modele göre model.fit(X_train, y_train) ve model.predict(X_test) işlemlerini uygula.
+
+10. Modelin doğruluk oranını ölç
+👉 Sınıflandırma için accuracy_score, regresyon için r2_score, mean_squared_error gibi metriklerle performansı değerlendir.
+
+projeleri çözerken bu adımları takip edebilirsiniz. Adım adım ilerlerseniz takılmazsınız.
+[16.10.2025 08:20:13] ~ Özkan Günalp: ‎‎‎~ Özkan Günalp süreli mesajları etkinleştirdi. ‎Tutulmadığı takdirde yeni mesajlar gönderildikten ‎7 gün sonra bu sohbetten kaybolacak. ‎Değiştirmek için dokunun.
+[16.10.2025 08:44:34] ~ Özkan Günalp: ‎‎~ Özkan Günalp süreli mesajları devre dışı bıraktı. ‎Değiştirmek için dokunun.
+[17.10.2025 12:57:34] ~ Ömer Can: Değerli Yapay Zeka Uzmanı Adayları,
+
+Bu akşam saat 21:00’da birlikte Titanic projesini canlı olarak çözeceğiz.
+🔗 Zoom bağlantısı:
+https://michigantech.zoom.us/j/85193154860
+Katılımınızı bekliyoruz
+[17.10.2025 20:55:44] ~ Ömer Can: 5 dakika sonra ders başlıyor
+[18.10.2025 00:05:12] ~ Ömer Can: titanic çözüm videosu:
+
+https://drive.google.com/file/d/1Sovs7j8lZBvwfK_a7qbSljVLDO_ccmQc/view?usp=sharing
+[18.10.2025 00:05:46] ~ Ayşegül: Teşekkürler
+[18.10.2025 04:04:23] ~ Zafer ACAR: Bu haftaki goreviniz 6:55 te Zoom linkine baglanmak. Saat 07:00 de kapilar kapanacak ve gec kalanlar derse alinmayaktir. Oyunu kazanmak isteyen 6:55 te Zoom da olsun.
+[18.10.2025 06:53:17] ~ Ayşegül: Günaydın herkese. Ben de elektrikler yok ilk telefondan bağlanıp gelince bilgisayara geçebilir miyim?
+[18.10.2025 06:54:01] Eyüp: Günaydın zoom linki nerede paylaşılmıştı
+[18.10.2025 06:54:42] ~ Özkan Günalp: önce konu anlatımı olacağı için, sorun yaşamazsınız
+[18.10.2025 06:54:54] ~ idrisozcelikh@gmail.com: zoom linki dün akşam ki mi
+[18.10.2025 06:55:24] ~ Ayşegül: Teşekkür ederim
+[18.10.2025 06:55:37] ~ Özkan Günalp: ‎Bu mesaj silindi.
+[18.10.2025 06:55:53] ~ Özkan Günalp: ‎Bu mesaj silindi.
+[18.10.2025 06:57:13] ~ Zafer ACAR: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[18.10.2025 06:59:38] Eyüp: Farklı odalarmış
+[18.10.2025 06:59:56] Eyüp: İlk odada bekleyen arkadaşlar için söylüyorum en son linke girmeniz lazım
+[18.10.2025 14:44:01] ~ Hande Çarkcı: https://us05web.zoom.us/j/86807526822?pwd=PUC8PDVLq1a38qay4GB094gbOSbAT6.1   sorularınız için gelebilirsiniz
+[18.10.2025 20:17:27] ~ Ayşegül: İyi akşamlar bugünün ders kayıtları yüklendi mi
+[18.10.2025 20:58:08] ~ Ömer Can: https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODM3/details
+[19.10.2025 06:57:32] ~ Zafer ACAR: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[19.10.2025 14:52:38] Tuğba Hanım AI: https://us05web.zoom.us/j/83902731335?pwd=Zb878K17n3PC8r96ScBosPDjNTfouB.1
+[19.10.2025 14:52:42] Tuğba Hanım AI: Hata alanlar gelebilir
+[19.10.2025 17:17:26] ~ Ayşegül: rica etsem ders kayıtlarını paylaşabilir msiiniz
+[19.10.2025 17:39:03] ~ Özkan Günalp: ders kaydı sanırım akşama doğru hazır olur.
+[19.10.2025 17:55:01] ~ Ayşegül: Aa tamam teşekkür ederim
+[19.10.2025 18:09:10] ~ Özkan Günalp: rica ederim
+[19.10.2025 18:35:47] ~ Ömer Can: ‎Bu mesaj silindi.
+[19.10.2025 19:15:38] ~ Ömer Can: ders kaydı classroom a yüklendi :
+
+https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODQx/details
+[19.10.2025 20:57:32] ~ Özkan Günalp: Hocamızın ders notebooklarını kapsayan etkileşimli 100 soruluk çoktan seçmeli soruların linkler aşağıdadır, Başarılar:)
+
+Day_5_Data_Imputation_Quiz: 
+
+https://g.co/gemini/share/a0a97639083c
+
+Day_5_Deep_Learning_Quiz: 
+
+https://g.co/gemini/share/ee0704f664b2
+
+Day_5_Computer_Vision_Quiz: 
+
+https://g.co/gemini/share/4717d867ccdc
+
+Day_6_NLP Quizzes:
+
+https://g.co/gemini/share/be2960f50796
+
+https://g.co/gemini/share/5dade1a78935
+‎[20.10.2025 15:57:38] ~ Zafer ACAR: ‎görüntü dahil edilmedi
+[25.10.2025 06:55:21] ~ Zafer ACAR: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[25.10.2025 14:32:34] ~ Ömer Can: Day 7 ye eklenecek dosyalar
+Ham or Spam
+NlpwithDL
+Stylecloud
+Wordembeddings
+[25.10.2025 14:36:36] ~ Ömer Can: ‎ANKET:
+Office hours gün seçimi
+‎SEÇENEK: Çarşamba (7 oy)
+‎SEÇENEK: Perşembe (6 oy)
+[26.10.2025 02:37:30] ~ Zafer ACAR: 7, günün ders videosu https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODYx/details
+[26.10.2025 07:00:28] ~ Özkan Günalp: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[26.10.2025 08:43:22] ~ idrisozcelikh@gmail.com: https://istanbuluseyret.ibb.gov.tr/
+[26.10.2025 21:44:23] ~ Özkan Günalp: Day_7_NLP_Quiz:
+
+https://g.co/gemini/share/5dade1a78935
+
+Day_8_Computer_Vision_Quiz:
+
+https://g.co/gemini/share/f3a6ae5ff717
+[26.10.2025 22:58:26] ~ Zafer ACAR: Day8 Video - https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODYz/details
+[27.10.2025 09:27:22] ~ idrisozcelikh@gmail.com: Zafer hocam ders videolarına altyazıyı aktif hale getirebilir misiniz
+[27.10.2025 16:03:09] ~ Zafer ACAR: 'Ofice Hours' saatlerimiz belli oldu.
+31 Ekim Cuma akşamı, Türkiye saati ile 18:00 - 22:00 arasında, ders hocası ile birebir görüşme fırsatınız bulunmaktadır. Bu süre zarfında, aşağıdaki konuları görüşebilirsiniz:
+
+        Kendinizi tanıtmak
+        Sorularınızı sormak
+        Kariyer planlarınızı gözden geçirmek
+        Yapay zeka derslerinizden beklentilerinizi tartışmak
+        Amerika'da çalışma veya yüksek lisans/doktora çalışmaları hakkında bilgi almak
+        Projeler hakkında fikir alışverişinde bulunmak
+
+Her görüşme 10'ar dakika sürecektir. Lütfen uygun olan saate Excel dosyasında   https://tinyurl.com/aitr46 isminizi belirtin. Toplantı saatinizden 2 dakika önce, aşağıdaki Zoom bağlantısına tıklayarak toplantıya katılın. Zoom sizi bekleme odasına alacak ve bir önceki görüşme sona erdiğinde sıra size gelecektir.
+Zoom Bağlantısı:  https://michigantech.zoom.us/j/84420590923
+Excel dosyasına erişmek için de aşağıdaki bağlantıyı kullanabilirsiniz: 
+https://tinyurl.com/aitr46
+[28.10.2025 13:59:53] ~ Zafer ACAR: office hours da cok az yer kaldi. Son gune kalmayiniz https://tinyurl.com/aitr46
+[28.10.2025 14:04:34] ~ Ayşegül: ‎Bu mesaj silindi.
+[28.10.2025 14:04:40] ~ Ayşegül: ‎Bu mesaj silindi.
+[29.10.2025 14:44:50] ~ Ömer Can: Konuların üstünden geçeceğimiz ve sorularınızı cevaplayacagimiz ders perşembe günü saat 21:00 da yapılacaktır. Yarın zoom linki WhatsApp grubundan paylaşılacaktır.
+[29.10.2025 16:37:33] ~ Zafer ACAR: Bazi arkadaslarimiz derslere katildiklari halde ders notlarini sisteme yuklemiyorlar. Sistemde 2 hafta hicbir derse katilmanis gozuken veya katildigi halde derste yazdigimiz kodlari classroom a yuklemeyen 4 arkadasimiz daha derslerden uzaklastirilacaktir.
+[30.10.2025 20:42:21] ~ Ömer Can: saat 21:00 da bu linke bekleniyorsunuz.
+https://michigantech.zoom.us/j/87210896989
+‎[31.10.2025 15:20:33] ~ Ömer Can: NLP CLASSIFICATION & SENTIMENT ANALYSIS.ipynb ‎belge dahil edilmedi
+[31.10.2025 15:21:33] ~ Ömer Can: Share link: https://michigantech.zoom.us/rec/share/ua0_Jw29Rt8YIeJi6-YkBzj8OQN0P1YWGQyxbLXYaCNhayLrlFJn9fDyK_QVHipy.0CUY-b6W6Nfh0XBP
+Passcode: H^8ce1&Q
+[31.10.2025 15:24:25] ~ Ömer Can: Ipynb dosyasi  ödevin bitmiş hali değildir. Nasıl yapılacağını göstermek için ödevde istenenlerin belli bir kısmı ders niteliğinde anlatılmıştır. Odevdeki pdf i takip ederek tüm istenenleri yerine getirmelisiniz.
+[31.10.2025 15:24:30] ~ Ömer Can: ‎Bu mesaj silindi.
+[31.10.2025 15:27:09] ~ Ayşegül: Teşekkürler
+[31.10.2025 17:13:08] ~ Zafer ACAR: Office hours 50 dakikaya basliyor. Bir nedenle katılamayacak arkadaşlar buradan isimlerini silebilirler. Sırada bekleyen arkadaşlar var. https://tinyurl.com/aitr46
+[31.10.2025 17:57:48] ~ Ömer Can: https://michigantech.zoom.us/j/84420590923 zoom linki
+[31.10.2025 17:59:52] ~ Zafer ACAR: office hours basladi sirasi geleni bu zoom linkine bekliyoruz:https://michigantech.zoom.us/j/84420590923
+[31.10.2025 22:44:26] ~ Zeynep Sude Sinanoğlu: ‎~ Zeynep Sude Sinanoğlu bir grup bağlantısıyla katıldı.
+‎[1.11.2025 06:25:31] ~ furkanselimozkan: ‎görüntü dahil edilmedi
+‎[1.11.2025 06:58:29] ~ Hande Çarkcı: LDA2.py ‎belge dahil edilmedi
+[1.11.2025 06:59:05] ~ Özkan Günalp: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[1.11.2025 09:07:08] ~ furkanselimozkan: Teşekkürler
+[1.11.2025 12:35:13] ‪+90 533 306 73 59‬: ‎‪+90 533 306 73 59‬ bir grup bağlantısıyla katıldı.
+[1.11.2025 14:59:32] ~ Özkan Günalp: https://us05web.zoom.us/j/82161849726?pwd=CQH2KzObWvVajS83hcmUgY6wN4yTvK.1
+[1.11.2025 14:59:53] Tuğba Hanım AI: Hata alan gelebilir
+[1.11.2025 20:59:39] ~ Zafer ACAR: Day9 Ders videosu https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODcx/details
+[1.11.2025 21:00:02] ~ ŞABAN ŞAHBAZ: Teşekkür ederim
+[2.11.2025 06:57:27] ~ Özkan Günalp: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[2.11.2025 14:58:26] Tuğba Hanım AI: https://us05web.zoom.us/j/88272449219?pwd=TexLLaHARZ2J58y8aca3HBb1EtUBAf.1
+[2.11.2025 14:58:31] Tuğba Hanım AI: Hatası olan bağlanabilir
+‎[2.11.2025 15:29:33] ~ Özkan Günalp: ‎görüntü dahil edilmedi
+[2.11.2025 15:31:00] Tuğba Hanım AI: Bugün yüklemeniz gereken dosyalar.
+[2.11.2025 15:31:22] ~ Özkan Günalp: BigDataSpark dosyasını Colab'tan indirmeyi unutmayalım. Toplam 7 notebook yüklenecek
+[2.11.2025 20:55:38] ~ Zafer ACAR: Time Series hakkinda hersey https://opentimeseries.com/
+[3.11.2025 05:35:27] ~ Zafer ACAR: 10. gunun ders videosu yayinlandi https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0ODc2/details
+[3.11.2025 05:40:22] ~ Zafer ACAR: https://www.cnnturk.com/video/turkiye/yargida-yapay-zekadan-destek-alinacak-2355121
+[3.11.2025 15:39:40] ~ Dery@: ‎~ Dery@ bir grup bağlantısıyla katıldı.
+[3.11.2025 20:50:14] ~ idrisozcelikh@gmail.com: https://www.ekonomim.com/sirketler/amazon-ile-openai-arasinda-isbirligi-anlasmasi-haberi-852881
+‎[4.11.2025 03:01:33] ~ Özkan Günalp: Day_9_Quiz.html ‎belge dahil edilmedi
+‎[4.11.2025 03:05:51] ~ Özkan Günalp: Day_10_Quiz.html ‎belge dahil edilmedi
+‎[4.11.2025 23:09:03] ~ Zafer ACAR: ‎ses dahil edilmedi
+[4.11.2025 23:09:04] ~ Zafer ACAR: Yapay zeka ile yapilmis bir sarki. Bakalim begenecek misiniz?
+[4.11.2025 23:25:31] ~ Ali: Intro muzigi asiri profesyonel hocam.
+[4.11.2025 23:26:17] ~ Ayşegül: 🤗 çok güzel olmuş
+[4.11.2025 23:27:02] ~ Mert Ali Özer: Hocam çok güzel olmuş
+[4.11.2025 23:27:07] ~ BT: Süper olmuş 🥰😍
+[4.11.2025 23:29:50] ~ Mustafa Hilmk Asik: 👏👏👏
+[4.11.2025 23:29:59] ~ Mustafa Hilmk Asik: Guzel olmus
+[4.11.2025 23:31:16] ~ Mustafa Hilmk Asik: Youtube da paylasiilmali bence😊👏
+[4.11.2025 23:44:59] Eyüp: AI feat. Zafer Hoca
+[4.11.2025 23:51:46] ~ ŞABAN ŞAHBAZ: Çok süper olmuş, Hocam
+[4.11.2025 23:56:52] ~ ŞABAN ŞAHBAZ: Hocam sizinle sözleşme yapabilirmiyiz ?
+Seçim kampanyalarında partilerin ve liderlerinin müzikleri için…
+‎[5.11.2025 06:53:06] ~ Zafer ACAR: ‎ses dahil edilmedi
+[5.11.2025 07:17:30] ~ idrisozcelikh@gmail.com: Güzel olmuş harika girmediği alan yok galiba
+[5.11.2025 08:52:36] ~ Duygu Erişken: Hocam harika olmuş gerçekten 😮😮
+‎[5.11.2025 18:31:32] ~ Özkan Günalp: ‎görüntü dahil edilmedi
+‎[5.11.2025 22:45:03] ~ Ayşegül: ‎görüntü dahil edilmedi
+[5.11.2025 22:56:12] ~ Ömer Can: Siyah ekranı kapatın
+[5.11.2025 22:56:28] ~ Ömer Can: Jupyter notebook u uygulamardan tekrar başlatın
+[5.11.2025 23:10:24] ~ Ayşegül: Tamam düzeldi teşekkür ederim
+[8.11.2025 06:45:14] ~ Özkan Günalp: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[8.11.2025 14:58:50] ~ Özkan Günalp: https://us05web.zoom.us/j/83605868446?pwd=nfOb1fruVBYLCuwkEqsiA88dFJMUIF.1
+[8.11.2025 14:59:06] ~ Özkan Günalp: Hata alan varsa gelsin
+[8.11.2025 15:06:25] Tuğba Hanım AI: https://us05web.zoom.us/j/85212329148?pwd=zZGPAbc8zhJaOC5h8NJJ8bBASAMjlu.1
+[8.11.2025 15:20:08] ~ Ömer Can: Join Zoom Meeting
+https://us05web.zoom.us/j/82629339247?pwd=s8aM5NFH2l1UsuXKpqCKtRocmJ5q4M.1
+
+Meeting ID:  826 2933 9247
+Passcode: edan7w
+[8.11.2025 15:20:15] ~ Ömer Can: bana sorusu olan hatasi olan gelebilir
+[9.11.2025 02:30:49] ~ Zafer ACAR: Day11 Video https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk3MTczNjcy/details
+[9.11.2025 06:58:23] ~ Hande Çarkcı: https://michigantech.zoom.us/j/88464712645
+[9.11.2025 12:52:48] ~ Hande Çarkcı: Ders başladı
+[9.11.2025 15:06:19] ~ Hande Çarkcı: https://us05web.zoom.us/j/89985081148?pwd=YqKJusfGezwc5MsZq0BSqjA3rLMGPZ.1 sorusu olan gelebilir
+[9.11.2025 15:47:25] ~ Ayşegül: aynı bağlantıya mı gelelim
+[9.11.2025 15:48:29] ~ Hande Çarkcı: hayır
+[9.11.2025 15:48:32] ~ Hande Çarkcı: atacağız simdi link
+[9.11.2025 15:48:33] ~ Ömer Can: Join Zoom Meeting
+https://us05web.zoom.us/j/88518221910?pwd=SJ4qfefGesD5gk3JdTyVn2IhAhGPHk.1
+
+Meeting ID:  885 1822 1910
+Passcode: Brbr6b
+
+
+
+
+buraya da geleb'l'rs'n'z
+[9.11.2025 15:48:33] Tuğba Hanım AI: https://us05web.zoom.us/j/83340813894?pwd=L0JGafZJdgksJivzA4MHjdnOodRVUz.1
+[9.11.2025 15:48:59] Tuğba Hanım AI: Yeniden buraya bağlanabilirsiniz
+[9.11.2025 15:49:27] ~ Hande Çarkcı: ömer hocanınkinde bulusalim arkadaşlar
+[9.11.2025 16:30:42] ~ Ömer Can: https://michigantech.zoom.us/j/88464712645
+‎[9.11.2025 20:35:31] ~ Özkan Günalp: ‎görüntü dahil edilmedi
+[9.11.2025 22:14:01] Tuğba Hanım AI: Classrooma yükleme yaparken hata alanlar, dosyalarını drive a ekleyerek yükleyebilir. Classroomda drive ı seçerek yükleyebilirsiniz.
+[9.11.2025 22:14:27] ~ Ayşegül: Teşekkürler
+[9.11.2025 22:14:46] Tuğba Hanım AI: Rica ederim
+[9.11.2025 22:17:18] ~ Zafer ACAR: su an yuklenebiliyor. egittimizi ve yulerce MB tutan h5 ve .keras uzantlili dosyalar yuklenince yer kalmamis serverda.
+[9.11.2025 22:17:33] ~ Zafer ACAR: sadece kod yazdigimiz jupyter notebook ve .py uzantili kodlair yukleyiniz'
+[10.11.2025 15:34:22] ~ Zafer ACAR: Bu hafta derste bahsettigimiz FEI FEI ile alakali bir haber. https://www.youtube.com/watch?v=wdx7ab64E3g
+[10.11.2025 16:11:25] ~ idrisozcelikh@gmail.com: https://www.karar.com/guncel-haberler/trumpla-restlesen-turk-dunya-iea-baskani-fatih-birolla-tanismak-icin-2005650
+[10.11.2025 16:11:35] ~ idrisozcelikh@gmail.com: Son kelime manidar
+[11.11.2025 01:12:17] Eyüp: İnsanoğlunun son icadı yapay zeka olacak detayı, ve bunu Stephen hawking de 2014 yılında söylemiş
+‎[11.11.2025 14:48:20] ~ Özkan Günalp: Day_11_Quiz.html ‎belge dahil edilmedi
+‎[11.11.2025 15:29:26] ~ Özkan Günalp: Day_12_Ouiz.html ‎belge dahil edilmedi
+‎[12.11.2025 20:26:54] ~ BT: ‎görüntü dahil edilmedi
+[12.11.2025 20:29:08] ~ BT: Tensorflow dan mi datasets indiriyoruz?
+[12.11.2025 20:29:43] Eyüp: Evet ödevin en altında bulunan kod ile datayı çektim ben
+[12.11.2025 20:30:17] Eyüp: Birde data çok büyük colabta çalıştım
+[12.11.2025 20:30:25] ~ BT: Anladim tamam teşekkür ederim Eyüp.
+[12.11.2025 20:31:20] ~ BT: Süper bende hemen colabta yaparim, sağol paylaşımlar icin. Hayırlı akşamlar ☺️
+[12.11.2025 20:32:16] Eyüp: İyi akşamlar kolay gelsin :)
+[13.11.2025 20:35:52] ~ Yunus KÖSE: ‎ANKET:
+Geçtiğimiz hafta sonu Zafer Hoca’nın bahsettiği GitHub kurulumu ve temel kullanımı konularını öğrenmek isteyenler için kısa bir uygulamalı anlatım yapabilirim. GitHub kurulumu ve temel kullanım anlatımı yapılmasını ister misiniz?
+‎SEÇENEK: Evet, katılmak isterim (8 oy)
+‎SEÇENEK: Hayır, teşekkürler (0 oy)
+[13.11.2025 21:01:29] ~ Yunus KÖSE: Saat yazmayı unutmuşum, yarın akşam 20.00'da anlatım yapmayı düşünüyorum
+[14.11.2025 19:34:11] ~ Ayşegül: İyi akşamlar Yunus bey ben katılmak isterimi işaretledim ama mesaiye kalmam gerekti yetişemeyeceğim gibi görünüyor kayıt alacak mısınız dersi? Sonradan izlesem
+[14.11.2025 19:58:05] ~ Yunus KÖSE: https://michigantech.zoom.us/j/88254058881
+[14.11.2025 19:58:52] ~ Yunus KÖSE: iyi akşamlar, evet alacağım
+[14.11.2025 19:58:57] ~ Yunus KÖSE: kolay gelsin
+[14.11.2025 21:57:29] ~ Ömer Can: Yunus beyin dersinin kaydı:
+
+https://michigantech.zoom.us/rec/share/zn_2S_57l06ONQuIVFfvZ9lr4oUbm52ZNIFaIDnDkLVlXR076kpsqJv27QyLh5BF.-AsSa_Gp5Nz4pOrI?startTime=1763139899000
+Parola: 2U9TjD*6
+[14.11.2025 22:00:08] ~ Zafer ACAR: https://www.youtube.com/watch?v=qQviI1d_hFA
+[15.11.2025 06:58:15] ~ Zafer ACAR: Hemen şimdi bu zoom toplantısına bekleniyorsunuz: https://michigantech.zoom.us/j/88464712645
+[15.11.2025 12:16:37] ~ Özkan Günalp: https://us05web.zoom.us/j/85866570774?pwd=QoDCUhhlv8XqtSxscflabHj5UIX8HL.1
+[15.11.2025 12:16:43] ~ Özkan Günalp: hata alanlar gelebilir
+[15.11.2025 12:46:12] ~ Özkan Günalp: https://www.linkedin.com/posts/ozkn-gnalp-19k_aristo-saesperpozisyon-kuantumbilgisayarlar-activity-7382178308530003968-6G50?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtO6nYBxaH74ipp1ef5IBmLJZDJ_YcYow4
+‎[15.11.2025 18:56:02] ~ Hande Çarkcı: ‎görüntü dahil edilmedi
+‎[15.11.2025 18:56:02] ~ Hande Çarkcı: ‎görüntü dahil edilmedi
+‎[15.11.2025 18:56:02] ~ Hande Çarkcı: ‎görüntü dahil edilmedi
+‎[15.11.2025 18:56:03] ~ Hande Çarkcı: ‎görüntü dahil edilmedi
+‎[15.11.2025 18:56:03] ~ Hande Çarkcı: ‎görüntü dahil edilmedi
+‎[15.11.2025 18:56:03] ~ Hande Çarkcı: ‎görüntü dahil edilmedi
+[15.11.2025 20:37:37] ~ Zafer ACAR: 13. gün ders videosu yayınlandı https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk3MTczNjgz/details
+[16.11.2025 07:00:24] ~ Hande Çarkcı: https://michigantech.zoom.us/j/88464712645
+[16.11.2025 11:55:42] ~ Özkan Günalp: https://us05web.zoom.us/j/81648282188?pwd=rC9RM7GMvfgaNgCP6lKnxRgJvhJejv.1
+[16.11.2025 11:55:52] ~ Özkan Günalp: Hata alan arkadaşlar gelebilir
+[16.11.2025 12:30:50] ~ Zafer ACAR: Görüş ve öneriler ödevinizi unutmayınız https://classroom.google.com/c/ODAyNTk3MTczNTA3/sa/ODAyNTk4OTM0NzYw/details ‎<Bu mesaj düzenlendi>
+[16.11.2025 12:37:03] ~ Hande Çarkcı: https://us05web.zoom.us/j/82345471017?pwd=jeMdLUBECnds1fOwscHeG3fnDzosSs.1
+[16.11.2025 12:50:50] ~ Özkan Günalp: ‎~ Özkan Günalp bir mesajı sabitledi
+[17.11.2025 03:47:19] ~ Zafer ACAR: https://youtube.com/shorts/OrPvrFukSVg?si=Ktw3Fg6iHqHvhWNZ
+[17.11.2025 17:00:21] ~ Zafer ACAR: Aralik ayinda videolar uzerinden baslatmayi planladigimiz yapay zeka kampimiza katilmasini istediginiz arkadaslarinizla bu linki paylasabilirsiniz: Aralik ayi Yapay zeka kampi basvuru formu https://tinyurl.com/ai48tr ‎<Bu mesaj düzenlendi>
+[19.11.2025 17:40:08] ~ Ömer Can: Değerli katılımcılarımız, bu ay için taksit ödemelerini unutmayalım lütfen. İyi akşamlar.
+[19.11.2025 22:57:11] ~ idrisozcelikh@gmail.com: https://youtu.be/QK647wcyK34?si=DlSsiC0lhO-QsHYW
+[19.11.2025 22:58:04] ~ idrisozcelikh@gmail.com: Belki takip ediyorsunuzdur ancak dersimizle alakalı olduğu icin paylaşayım dedim
+[22.11.2025 04:30:33] ~ Zafer ACAR: Bu hafta canli ders yok. Onun yerine Mobile App Development and Block Chain videolarini izleyeceksiniz. https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0NzYz/details
+[22.11.2025 04:30:55] ~ Zafer ACAR: Block Chain Videosu https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0NzY1/details
+[22.11.2025 04:33:50] ~ BT: Ilk gonderdiginizi bugun digerini yarin mi hocam?
+[22.11.2025 06:24:39] ~ BT: Hocam collab linkini bulamadim Ben videoda bahsettiğinizi
+[22.11.2025 06:50:38] ~ Zafer ACAR: https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODAyNTk4OTM0NzYz/details
+[22.11.2025 06:51:01] ~ Zafer ACAR: https://drive.google.com/file/d/1SUYNlosJV22db42ejKG7VN5imdtNSoTE/view?usp=sharing
+‎[22.11.2025 13:55:52] ~ idrisozcelikh@gmail.com: base.apk ‎belge dahil edilmedi
+[22.11.2025 13:56:28] ~ idrisozcelikh@gmail.com: Tarayıcı Browser url  yazmak lazım
+[22.11.2025 16:26:57] ~ Ayşegül: ‎Bu mesaj silindi.
+[22.11.2025 16:41:13] ~ Ayşegül: ‎Bu mesaj silindi.
+[23.11.2025 07:35:34] ~ Özkan Günalp: https://www.linkedin.com/posts/data-science-ml-hub_qubit-hadamardgate-superposition-activity-7398217405761581057-4kDJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtO6nYBxaH74ipp1ef5IBmLJZDJ_YcYow4
+[27.11.2025 04:38:01] ~ Zafer ACAR: 29 Kasım 2025 Cumartesi günü sunum yapacak olan arkadaşlarımız:
+
+1 - Erhan Abay - NLP CLASSIFICATION & SENTIMENT ANALYSIS (Restaurant)
+2 - Osman Özcanlı - Titanic Project with Keras and Deep Learning
+3 - Ahmet Hatipoğlu - ANN - DEEP Learning - Concrete Compressive Strength
+4 - Doruk Acar - Loan Prediction
+5 - İbrahim Güneş - San Francisco Airport Clustering
+6 - Erhan Mülayim - Laptop Price Prediction 
+7 - Yusuf Bodur - Clustering the Military Powers of Countries
+8 - Berat Deniz - San Francisco Airport Clustering
+9 - Devrim Balaban - Clustering the Military Powers of Countries
+10 - Ufuk Erkan - NLP CLASSIFICATION & SENTIMENT ANALYSIS (Restaurant)
+11 - Mehmet Ali Erkul - ANN - DEEP Learning - Concrete Compressive Strength
+12 - Eyüp Bağdatlı - Capstone Project
+13 - Yunus Köse - CNN - Convolutional Neural Networks
+14 - Beyza Topbaş - CNN - Convolutional Neural Networks
+15 - Berk Bayram - Image Classification with CNN for CIFAR_10 Data
+16 - Duygu Erişken - Laptop Price Prediction
+17 - Furkan Selim Özkan - San Francisco Airport Clustering
+18 - Sefer Kaya - Multiple Linear Regression
+19 - Mertali Özer - Clustering the Military Powers of Countries
+20 - Ali Galip Çınar - Titanic Project with Keras and Deep Learning
+
+Dersimiz Cumartesi sabah 07:00 de aynı zoom linkinden başlayacak ve 09:00 gibi son bulacaktır.
+[27.11.2025 04:53:37] ~ Zafer ACAR: Sertifika alabilmek için en az bir sunum yapmış olmanız gerekmektedir.
+[27.11.2025 05:56:00] ~ Zafer ACAR: Değerli arkadaşlar,
+
+Yapay zeka, veri bilimi ve makine öğrenimi kamplarımız, 1. gruptan 48. gruba kadar katılıp memnun kalan herkesin arkadaş ve akrabalarına önerileri sayesinde başarılı bir şekilde devam etti. Federal nedenlerden ötürü reklam ve sosyal medyada yer alamıyoruz. Ancak son dönemlerde, katılımcıların akrabaları ve arkadaşlarıyla kampımızı paylaşmadığını görüyoruz. Yeni öğrenci gelmediği takdirde, maalesef Türkiye'deki yapay zeka kamplarımızı sonlandırmak zorunda kalacağız.
+
+Lütfen yeni başlayacak grupları arkadaşlarınıza iletmeyi unutmayın. Teşekkür ederiz.
+[27.11.2025 16:49:00] ~ Zafer ACAR: https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html
+‎[28.11.2025 14:24:02] ~ Özkan Günalp: Day_13_Quiz.html ‎belge dahil edilmedi
+‎[28.11.2025 14:41:26] ~ Özkan Günalp: Day_14_Quiz.html ‎belge dahil edilmedi
+‎[28.11.2025 15:02:04] ~ Özkan Günalp: Day_15_Quiz.html ‎belge dahil edilmedi
+[29.11.2025 07:02:32] ~ Özkan Günalp: https://michigantech.zoom.us/j/88464712645
+
+Hemen şimdi Zoom toplantısına bekleniyorsunuz!
+[29.11.2025 09:27:48] ~ Ömer Can: https://drive.google.com/file/d/18Info6UiT15JsBLYmmcOmndQeeeGRQR-/view?usp=drive_link
+
+
+Regression final project için web sitesinden veri çekme işlemini bu videodan izleyebilirsiniz.
+[29.11.2025 10:57:30] ~ Zafer ACAR: Bugunku proje sunum videsu yayinlandi https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODMxNzE1OTkzMzA1/details
+‎[29.11.2025 10:59:02] ~ Zafer ACAR: ‎görüntü dahil edilmedi
+[1.12.2025 07:58:42] ~ Özkan Günalp: https://www.linkedin.com/posts/ozkn-gnalp-19k_ai-datascience-machinelearning-activity-7401121997885300736-lNDy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtO6nYBxaH74ipp1ef5IBmLJZDJ_YcYow4
+‎[1.12.2025 09:04:21] ~ Özkan Günalp: ‎görüntü dahil edilmedi
+[1.12.2025 09:08:28] ~ Özkan Günalp: ‎~ Özkan Günalp bir mesajı sabitledi
+[3.12.2025 14:19:38] ~ Ömer Can: Yapay zeka alanındaki en yeni gelişmelerden, açılacak yeni kurslarımızdan ve güncellenen ders içeriklerimizden anında haberdar olmak için lütfen bizi LinkedIn'de takip edin.
+
+http://linkedin.com/company/the-data-campers
+[6.12.2025 03:47:45] ~ Zafer ACAR: Proje sununlarında Gecen hafta 13. sırada kalmıştık. Bu hafta oradan devam edeceğiz ve listede ismi olmayan sunum yapmayan diğer arkadaşlar da sunum yapacaklar. Zoom linki aynı sınıf linkinden gerçekleştirilecek. Sonrasında ve pazar günü yayınlanan PBL videolarını izleyeceksiniz.
+[6.12.2025 06:59:11] ~ Zafer ACAR: https://michigantech.zoom.us/j/88464712645
+
+Hemen şimdi Zoom toplantısına bekleniyorsunuz!
+[6.12.2025 10:34:10] ~ Zafer ACAR: Bugunku proje sunum videosu yayinlandi. Derse katilmayan arkadaslarimizin ozellikle son 25 dakikada gosterilen notebooklm ve AIStudio kisimlarini izlemelerini siddetle tavsiye ederiz https://classroom.google.com/c/ODAyNTk3MTczNTA3/m/ODIxMzAzODY4ODA5/details
+[6.12.2025 10:36:01] ~ Zafer ACAR: Ayrica bu hafta  yayinlanan PBL4 ve PBL 5 videolarini izlemelisiniz.
+[8.12.2025 10:38:12] ~ Zafer ACAR: https://youtu.be/-Hh8K-hntjI?si=nGE_RMsModTFkeqd
+[11.12.2025 18:05:52] ~ Ayşegül: Merhabalar projeleri belli olmayan kişiler istediği projeyi sunum yapabiliyor mu?
+[11.12.2025 18:15:38] ~ Ömer Can: Bu akşam projeleriniz belli olacak
+[12.12.2025 05:14:59] ~ Zafer ACAR: 13 Aralık Cumartesi günü sunum yapacak arkadaşlarımız
+
+1. Süha - BART Project
+
+2. Tevfik Akkoyun - ANN-DEEP Learning - Concrete Compressive Strength
+
+3. Mücahit Yavuz - Loan Prediction - Classification
+
+4. Faruk AZAKLI - Capstone Project
+
+5. Itır Ergün - Laptop Price Prediction
+
+6. Yunus Emre Arık - Regression Final Project
+
+7. Ayşegül Tuna - NLP CLASSIFICATION & SENTIMENT ANALYSIS
+
+8. İdris Özçelik - Titanic Keras - Deep Learning
+
+9. Şevval İclal Cebecioğlu - Three generations seeking romance
+
+10. Zeynep Sude Sinanoğlu - Customer Segmentation - Clustering
+
+11. Devrim Balaban - ANN - DEEP Learning - Concrete Compressive Strength
+
+12. Duygu Erişken - Laptop Price Prediction
+
+13. Osman Özcanlı - Capstone Project
+
+14. Yusuf Bodur - Build a predictive maintenance model for a delivery company - Classification
+[13.12.2025 06:59:19] ~ Zafer ACAR: https://michigantech.zoom.us/j/88464712645
+
+Hemen şimdi Zoom toplantısına bekleniyorsunuz!
+[19.12.2025 18:52:25] ~ Zafer ACAR: Degerli Arkadaslar bu hafta gecen hafta yetismeyenler sunum yapacaklar ve hic sunum yapmamis arkadaslarimiz icin son sans. Sertifika alabilmek icin en az bir sunum yapmaniz gerekmektedir. Liste bittikten sonra gonulluluk esasina gore sunum yapilacaktir. Sonrasinda prompt Engineering ve yapay zeka ile film olusturma konularinda minik or nekler yapacagiz. Hic sunum yapmamos olanlar icin bu hafta son sans.
+[20.12.2025 06:57:06] ~ Hande Çarkcı: https://michigantech.zoom.us/j/88464712645
+[20.12.2025 06:59:06] ~ Zafer ACAR: https://michigantech.zoom.us/j/88464712645
+
+Hemen şimdi Zoom toplantısına bekleniyorsunuz!
+[27.12.2025 09:38:31] ~ Zafer ACAR: Yeni yapay zeka kampi dinleyici linki https://michigantech.zoom.us/j/86244578026
+[7.01.2026 06:23:31] ~ Zafer ACAR: Türk Alman Üniversitesi, Ayyıldız Danışmanlık ve Sosyal Akıl Vakfı'nın ortaklaşa düzenlediği yapay zeka kampımız 17 Ocak Cumartesi günü başlıyor. Bu kampa katılmasını istediğniz arkadaşlarınızla bu linki paylaşabilirsiniz. https://forms.gle/1xAxUmn1ZpdscWTu5
